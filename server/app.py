@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from flask import Flask, request, current_app, g, make_response
+from flask import Flask
 
 contracts = [
     {
